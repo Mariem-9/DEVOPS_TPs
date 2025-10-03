@@ -2,6 +2,9 @@ package application;
 
 public class test {
 	public static void main (String[] args) 
-	{System.out.println("hello");}
+	{
+		//Print msg
+		System.out.println("hello");
+	}
 
 }
